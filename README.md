@@ -26,22 +26,22 @@ A full-stack blog app using Next.js and MongoDB to showcase code projects.
 
 Clone the repo and run it locally:
 
-# 1. Clone the repository
+### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/stacktrail.git
 ```
 
-# 2. Navigate into the project directory
+### 2. Navigate into the project directory
 ```bash
 cd stacktrail
 ```
 
-# 3. Install the dependenciesฃ
+### 3. Install the dependenciesฃ
 ```bash
 npm install
 ```
 
-# 4. Run the development server
+### 4. Run the development server
 ```bash
 npm run dev
 ```
